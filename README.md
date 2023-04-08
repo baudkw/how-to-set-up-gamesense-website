@@ -30,5 +30,29 @@ If you click the manage button a new page should open and you’ll be allowed in
 
 ![image](https://user-images.githubusercontent.com/106918352/230726900-696f4320-6141-45e1-ad4e-0591f3268bf3.png)
 
-Go to phpMyAdmin, click on Import then upload the "uploadthistoyourdatabase.sql" file.
+Go to phpMyAdmin, click on Import then upload the "uploadthistoyourdatabase.sql" file. ( Make sure you are in your DBname or you will get error )
+
+![image](https://user-images.githubusercontent.com/106918352/230727329-41027649-f31e-4f26-8af2-66598356784a.png)
+
+
+When you are done uploading files , go to index.php in file manager, go to line 98 and change to domain to yours.
+
+Then , set db info in forums/config.php
+
+inside ur db go to "users" table and add a guest user
+
+inside ur db go to "config" table and change all the domains to urs
+
+inside ur db go to "codes" table and add a inv so you can register
+
+You are now accessible to the website
+
+![image](https://user-images.githubusercontent.com/106918352/230727555-22e3717e-5bf4-4e4c-bca9-86c3b8dd9bd7.png)
+
+
+
+
+
+
+
 
