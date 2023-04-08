@@ -5,11 +5,13 @@ If you just want to set up ur gs site for free, here is how:
 Name your website whatever you want, after that refresh the page
 Then click on manage website ---> file manager
 Now go to public_html and delete everthing in there
+
 Next download this: https://github.com/JamalHackCOM/gamesense-forum
+
 To upload the files, just simply CTRL+A , drag and drop them to the file manager
 ![image](https://user-images.githubusercontent.com/106918352/230726768-4d6bd750-cc25-40bc-a453-f6c979874508.png)
-While you are waiting for the uploading process to finish, head back to the site manager then go to Tools ---> Database manager ---> New Database
-In the sidebar, hit Tools, then Database Manager
+While you are waiting for the uploading process to finish, head back to the site manager then go to Tools ---> Database manager
+r
 
 ![image](https://user-images.githubusercontent.com/106918352/230726868-a714a53b-26b6-4064-882f-aaaf857f9e4f.png)
 
