@@ -1,5 +1,5 @@
 ##https://discord.gg/zDhzk7Cs4D
-## how-to-set-up-gamesense-website
+## how-to-set-up-gamesense-forum-website
 If you just want to set up ur gs site for free, here is how:
 *   You will need to have an account at : https://www.000webhost.com/, if you don't, just sign up for one
 ![image](https://user-images.githubusercontent.com/106918352/230726359-18ed4739-b4a3-44f5-b2cf-fcac13607a05.png)
