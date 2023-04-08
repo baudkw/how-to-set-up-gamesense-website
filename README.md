@@ -25,4 +25,8 @@ Database username - choose any username you want
 Password - best to make it secure and random use some special characters in there
 Now, once you’ve created the database it should appear like below and you’ll be able to manage, delete and change the password if you need to.
 If you click the manage button a new page should open and you’ll be allowed into phpMyAdmin to access the database directly.
+
 ![image](https://user-images.githubusercontent.com/106918352/230726900-696f4320-6141-45e1-ad4e-0591f3268bf3.png)
+
+Go to phpMyAdmin, click on Import then upload the "uploadthistoyourdatabase.sql" file.
+
