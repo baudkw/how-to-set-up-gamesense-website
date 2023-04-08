@@ -10,6 +10,7 @@ To upload the files, just simply CTRL+A , drag and drop them to the file manager
 ![image](https://user-images.githubusercontent.com/106918352/230726768-4d6bd750-cc25-40bc-a453-f6c979874508.png)
 While you are waiting for the uploading process to finish, head back to the site manager then go to Tools ---> Database manager ---> New Database
 In the sidebar, hit Tools, then Database Manager
+
 ![image](https://user-images.githubusercontent.com/106918352/230726868-a714a53b-26b6-4064-882f-aaaf857f9e4f.png)
 
 Click on New Database
