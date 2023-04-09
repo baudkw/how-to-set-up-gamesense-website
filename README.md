@@ -51,6 +51,10 @@ You are now accessible to the website
 ![image](https://user-images.githubusercontent.com/106918352/230727555-22e3717e-5bf4-4e4c-bca9-86c3b8dd9bd7.png)
 
 
+Fix recaptcha:
+
+
+![image](https://user-images.githubusercontent.com/106918352/230752933-51d90d7e-dfbc-4d12-885c-cc451c1f4f42.png)
 
 
 
